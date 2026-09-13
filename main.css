@@ -1,5 +1,8 @@
 p {
     font-family: "Comic Sans MS", "Comic Neue", cursive;
+    display: flex;
+    justify-content: center;
+    justify-content: center;
 }
 
 img {
