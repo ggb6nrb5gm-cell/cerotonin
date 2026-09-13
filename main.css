@@ -10,12 +10,6 @@ div {
     margin-bottom: 12%;
 }
 
-@media screen and (max-width: 600px) {
-    body {
-        font-size: 3rem;
-    }
-}
-
 img {
     width: 20px;
 }
@@ -24,4 +18,10 @@ img {
     width: 20px;
     vertical-align: middle;
     margin-left: 6px;
+}
+
+@media screen and (max-width: 600px) {
+    body {
+        font-size: 3rem;
+    }
 }
