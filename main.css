@@ -10,6 +10,12 @@ div {
     margin-bottom: 12%;
 }
 
+@media screen and (max-width: 600px) {
+    body {
+        font-size: 1.3em;
+    }
+}
+
 img {
     width: 20px;
 }
